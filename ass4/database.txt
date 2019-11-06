@@ -1,0 +1,12 @@
+rajat | IT | 3rd year | 
+rajat | IT | 3rd year | 
+rajat | IT | 3rd year | 
+rajat | IT | 3rd year | 
+R1 | B1 | 3rd year | 
+R2 | B2 | 2rd year | 
+R3 | B3 | 1rd year | 
+R4 | B4 | 4rd year | 
+R1 | B1 | 3rd year | 
+R2 | B2 | 2rd year | 
+R3 | B3 | 1rd year | 
+R4 | B4 | 4rd year | 
